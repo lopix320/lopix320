@@ -16,7 +16,7 @@
  
 <hr style="margin-bottom:1.5em">
 <div align='center'>
- <a href="https://raphaelbrodrigues.github.io">
+ <a>
 <img style="margin-right:1em;" src="https://img.shields.io/static/v1?label=&message=Javascript&color=yellow" />
 <img style="margin-right:1em;" src="https://img.shields.io/static/v1?label=&message=MySQL&color=blue" />
 <img style="margin-right:1em;" src="https://img.shields.io/static/v1?label=&message=CSS&color=blue" />
