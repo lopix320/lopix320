@@ -3,7 +3,7 @@
 </h1>
 
 <p align='center'>
-  <a target="_blank" href="https://www.linkedin.com/in/raphael-b-rodrigues-08b02889/">
+  <a target="_blank" href="https://www.linkedin.com/in/gabriel-lopes-a6728819b/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>&nbsp;
   <a target="_blank" href="https://stackoverflow.com/users/13589919/raphael-barbosa-rodrigues">
