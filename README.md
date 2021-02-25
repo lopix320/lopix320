@@ -1,5 +1,5 @@
 <h1 align='center'>
- Opa, Seja bem vindo ao meu Github!!
+ Olá! Seja bem vindo ao meu Github ☺️
 </h1>
 
 <p align='center'>
