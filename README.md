@@ -14,7 +14,6 @@
  Skills:
  </h1>
  
-<hr style="margin-bottom:1.5em">
 <div align='center'>
 <img style="margin-right:1em;" src="https://img.shields.io/static/v1?label=&message=Javascript&color=yellow" />
   <br>
