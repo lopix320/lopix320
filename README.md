@@ -10,10 +10,6 @@
   <img src="https://img.shields.io/badge/stackoverflow-%23FF5722.svg?&style=for-the-badge&logo=Stackoverflow&logoColor=white" />
   </a>
     &nbsp;
-  <a target="_blank" href="https://raphaelbrodrigues.github.io/">
-  <img src="https://img.shields.io/badge/website-%23000000.svg?&style=for-the-badge&logo=write.as&logoColor=white" />
-  </a>
-  &nbsp;
 
 </p>
 
