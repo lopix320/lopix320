@@ -13,16 +13,12 @@
 <hr style="margin-bottom:1.5em">
 <div align='center'>
  <a href="https://raphaelbrodrigues.github.io">
-<img style="margin-right:1em;" src="https://img.shields.io/static/v1?label=&message=PHP&color=blue"  />
 <img style="margin-right:1em;" src="https://img.shields.io/static/v1?label=&message=Javascript&color=yellow" />
 <img style="margin-right:1em;" src="https://img.shields.io/static/v1?label=SH&message=Bash&color=orange" />
 <img style="margin-right:1em;" src="https://img.shields.io/static/v1?label=&message=MySQL&color=blue" />
-<img style="margin-right:1em;" src="https://img.shields.io/static/v1?label=&message=MongoDB&color=brown" />
 <img style="margin-right:1em;" src="https://img.shields.io/static/v1?label=&message=CSS&color=blue" />
 <img style="margin-right:1em;" src="https://img.shields.io/static/v1?label=&message=HTML&color=orange" />
-<img style="margin-right:1em;" src="https://img.shields.io/static/v1?label=&message=Bootstrap&color=blue" />
 <img style="margin-right:1em;" src="https://img.shields.io/static/v1?label=&message=Node.JS&color=green" />
-<img style="margin-right:1em;" src="https://img.shields.io/static/v1?label=&message=React&color=blue" />
 <img style="margin-right:1em;" src="https://img.shields.io/static/v1?label=&message=GIT&color=brown" />
  </a>
 </div>
