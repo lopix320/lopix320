@@ -6,10 +6,7 @@
   <a target="_blank" href="https://www.linkedin.com/in/gabriel-lopes-a6728819b/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>&nbsp;
-  <a target="_blank" href="https://stackoverflow.com/users/13589919/raphael-barbosa-rodrigues">
-  <img src="https://img.shields.io/badge/stackoverflow-%23FF5722.svg?&style=for-the-badge&logo=Stackoverflow&logoColor=white" />
-  </a>
-    &nbsp;
+ 
 
 </p>
 
