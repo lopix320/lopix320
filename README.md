@@ -34,4 +34,4 @@
  </a>
 </div>
 
- <p align='right'><small><i>~não repara na bagunça</i></small></p>
+ <p align='right'><small><i>~não sejamos que nem abelhas!</i></small></p>
