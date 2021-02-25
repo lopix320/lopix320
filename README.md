@@ -10,6 +10,10 @@
 
 </p>
 
+<h1 align='center'>
+ Skills:
+ </h1>
+ 
 <hr style="margin-bottom:1.5em">
 <div align='center'>
  <a href="https://raphaelbrodrigues.github.io">
