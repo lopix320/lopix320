@@ -27,5 +27,7 @@
   <br> 
 <img style="margin-right:1em;" src="https://img.shields.io/static/v1?label=&message=GIT&color=brown" />
 </div>
+<img style="margin-right:1em;" src=https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white />
+</div>
 
  <p align='right'><small><i>~não sejamos que nem abelhas!</i></small></p>
