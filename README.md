@@ -15,7 +15,7 @@
  </h1>
  
 <div align='center'>
-<img style="margin-right:1em;" src="https://img.shields.io/static/v1?label=&message=Javascript&color=yellow" />
+ <img style="margin-right:1em;" src="https://img.shields.io/badge/-java-yellow" />
   <br>
 <img style="margin-right:1em;" src="https://img.shields.io/static/v1?label=&message=MySQL&color=blue" />
   <br>
@@ -27,7 +27,7 @@
   <br> 
 <img style="margin-right:1em;" src="https://img.shields.io/static/v1?label=&message=GIT&color=brown" />
   <br>
-<img style="margin-right:1em;" src="https://img.shields.io/badge/-java-yellow" />
+<img style="margin-right:1em;" src="https://img.shields.io/static/v1?label=&message=Javascript&color=yellow" />
 </div>
 
  <p align='right'><small><i>~não sejamos que nem abelhas!</i></small></p>
