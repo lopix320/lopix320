@@ -46,6 +46,8 @@
 <img style="margin-right:1em;" src="https://img.shields.io/static/v1?label=&message=GIT&color=brown" />
   <br>
 <img style="margin-right:1em;" src="https://img.shields.io/static/v1?label=&message=Javascript&color=yellow" />
+  <br>
+<img style="margin-right:1em;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" />
 </div>
 
  <p align='right'><small><i>~não sejamos que nem abelhas!</i></small></p>
