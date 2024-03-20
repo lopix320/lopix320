@@ -2,7 +2,7 @@
 
 - 👩‍💻 Sou Software Engineer na Self Intelligence For Life, atuando com desenvolvimento Mobile desde 2022.
 - 🎓 Estou no 7º semestre do curso de Sistemas de Informação no Senac.
-- ❤ Apaixonado por soluções que cabem na palma da sua mão.
+- ❤ Apaixonado por soluções tecnológicas que simplificam a vida.
 - 🚀 Ao longo do meu tempo na área, tive a oportunidade de contribuir para mais de 3 projetos com segmentos variados.
 
 # Principais Projetos
