@@ -7,7 +7,7 @@
 
 # Principais Projetos
 ## Keep Educação
-- Aplicação voltada para auxiliar no cuidado do aspecto socioemocional de alunos de escolas. Este projeto visa fornecer recursos e ferramentas que promovessem o bem-estar emocional dos alunos, ajudando a lidar com questões como ansiedade, estresse e relações interpessoais dentro do ambiente escolar, também utilizando Flutter.
+-- Aplicação voltada para auxiliar no cuidado do aspecto socioemocional de alunos de escolas. Este projeto visa fornecer recursos e ferramentas que promovessem o bem-estar emocional dos alunos, ajudando a lidar com questões como ansiedade, estresse e relações interpessoais dentro do ambiente escolar, também utilizando Flutter.
   
 - Application aimed at helping to care for the socio-emotional aspects of school students. This project aims to provide resources and tools that promote students' emotional well-being, helping to deal with issues such as anxiety, stress and interpersonal relationships within the school environment, also using Flutter.
  <div style="display: flex;">
