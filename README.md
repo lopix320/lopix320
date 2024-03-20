@@ -35,7 +35,11 @@
 
 
 ## Nucleo Monitoramento (Em desenvolvimento)
+### Português
 - Monitoramento de descargas de raio em regiões do Brasil.
+  
+### English
+- Monitoring of lightning strikes in regions of Brazil.
 
 ## Contato
 - 📧 Email: gabriel.lp2008@gmail.com
