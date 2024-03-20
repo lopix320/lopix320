@@ -1,9 +1,16 @@
-# Seja bem vindo ao meu Git Hub 👋
+# Hello!!! Welcome to my GitHub Page 👋
 
+### Português
 - 👩‍💻 Sou Software Engineer na Self Intelligence For Life, atuando com desenvolvimento Mobile desde 2022.
 - 🎓 Estou no 7º semestre do curso de Sistemas de Informação no Senac.
 - ❤ Apaixonado por soluções tecnológicas que simplificam a vida.
 - 🚀 Ao longo do meu tempo na área, tive a oportunidade de contribuir para mais de 3 projetos com segmentos variados.
+
+### English
+- 👩‍💻 I'm a Software Engineer at Self Intelligence For Life, working with Mobile development since 2022.
+- 🎓 I'm in the 7th semester of the Information Systems course at Senac.
+- ❤ Passionate about technological solutions that simplify life.
+- 🚀 Throughout my time in the area, I had the opportunity to contribute to more than 3 projects with varied segments.
 
 # Principais Projetos
 ## Keep Educação
@@ -41,6 +48,6 @@
 ### English
 - Monitoring of lightning strikes in regions of Brazil.
 
-## Contato
+## Contact
 - 📧 Email: gabriel.lp2008@gmail.com
 - 🔗 LinkedIn: https://www.linkedin.com/in/gabriellopesa678965/
