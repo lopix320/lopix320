@@ -1,57 +1,22 @@
-<div>
-  <a href="https://github.com/lopix320">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lopix320&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lopix320&layout=compact&langs_count=7&theme=radical "/>
-</div>
-  
-  <div style="display: inline_block"><br>
-  <img align="center" alt="Zali-Js" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Zali-HTML" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Zali-CSS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Zali-CSS" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg"> 
-  <img align="center" alt="Zali-CSS" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">   
-  <img align="center" alt="Zali-CSS" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
-  <img align="center" alt="Zali-CSS" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg">  
-  <img align="center" alt="Zali-CSS" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg">
+# Seja bem vindo ao meu Git Hub 👋
 
-</div>
-  
-  ##
- <div>
-   <a href="https://www.linkedin.com/in/matheus-felipe-7aa2641b1/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  </div>
+- 👩‍💻 Sou Software Engineer na Self Intelligence For Life, atuando com desenvolvimento Mobile desde 2022.
+- 🎓 Estou no 7º semestre do curso de Sistemas de Informação no Senac.
+- ❤ Apaixonado por soluções que cabem na palma da sua mão.
+- 🚀 Ao longo do meu tempo na área, tive a oportunidade de contribuir para mais de 3 projetos com segmentos variados.
 
-<!-- <h1 align='center'>
- Olá! Seja bem vindo ao meu Github ☺️
-</h1>
-
-<p align='center'>
-  <a target="_blank" href="https://www.linkedin.com/in/gabriel-lopes-a6728819b/">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>&nbsp;
- 
-
-</p>
-
-<h1 align='center'>
- Skills:
- </h1>
- 
-<div align='center'>
- <img style="margin-right:1em;" src="https://img.shields.io/badge/-java-yellow" />
-  <br>
-<img style="margin-right:1em;" src="https://img.shields.io/static/v1?label=&message=MySQL&color=blue" />
-  <br>
-<img style="margin-right:1em;" src="https://img.shields.io/static/v1?label=&message=CSS&color=blue" />
-  <br>
-<img style="margin-right:1em;" src="https://img.shields.io/static/v1?label=&message=HTML&color=orange" />
-  <br>
-<img style="margin-right:1em;" src="https://img.shields.io/static/v1?label=&message=GIT&color=brown" />
-  <br>
-<img style="margin-right:1em;" src="https://img.shields.io/static/v1?label=&message=Javascript&color=yellow" />
-  <br>
-<img style="margin-right:1em;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" />
+# Principais Projetos
+## Keep Educação
+- Aplicação voltada para auxiliar no cuidado do aspecto socioemocional de alunos de escolas. Este projeto visa fornecer recursos e ferramentas que promovessem o bem-estar emocional dos alunos, ajudando a lidar com questões como ansiedade, estresse e relações interpessoais dentro do ambiente escolar, também utilizando Flutter.
+ <div style="display: flex;">
+  <img alt="" src="https://play-lh.googleusercontent.com/5UC12CCumFVu0EkpQBcH3g1eDCmBtrxD3AeBFuHfYkTSpMUdWzgSmQ7lbW-hmUaS7cU=w2560-h1440-rw" width="200" height="350">
 </div>
 
- <p align='right'><small><i>~não sejamos que nem abelhas!</i></small></p>
- -->
+
+
+## Nucleo Monitoramento (Em desenvolvimento)
+- Monitoramento de descargas de raio em regiões do Brasil.
+
+## Contato
+- 📧 Email: gabriel.lp2008@gmail.com
+- 🔗 LinkedIn: https://www.linkedin.com/in/gabriellopesa678965/
