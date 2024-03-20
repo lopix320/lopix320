@@ -14,6 +14,7 @@
   <img alt="" src="https://github.com/lopix320/lopix320/blob/main/Design%20sem%20nome%20(3).png" width="200" height="350">
   <img alt="" src="https://github.com/lopix320/lopix320/blob/main/Design%20sem%20nome%20(4).png" width="200" height="350">
 </div>
+
 ## Skinner
 - Aplicação destinada a auxiliar na realização de treinos de aprendizagem para clínicas que cuidam de crianças com dificuldades de aprendizagem. Este projeto foi concebido para oferecer atividades e exercícios personalizados, adaptados às necessidades individuais das crianças que possuem dificuldades de aprendizagem, facilitando seu processo de desenvolvimento e aprendizagem, utilizando Flutter.
  <div style="display: flex;">
