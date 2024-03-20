@@ -9,7 +9,7 @@
 ## Keep Educação
 - Aplicação voltada para auxiliar no cuidado do aspecto socioemocional de alunos de escolas. Este projeto visa fornecer recursos e ferramentas que promovessem o bem-estar emocional dos alunos, ajudando a lidar com questões como ansiedade, estresse e relações interpessoais dentro do ambiente escolar, também utilizando Flutter.
  <div style="display: flex;">
-  <img alt="" src="https://play-lh.googleusercontent.com/5UC12CCumFVu0EkpQBcH3g1eDCmBtrxD3AeBFuHfYkTSpMUdWzgSmQ7lbW-hmUaS7cU=w2560-h1440-rw" width="200" height="350">
+  <img alt="" src="https://github.com/lopix320/lopix320/blob/main/Design%20sem%20nome%20(1).png" width="200" height="350">
 </div>
 
 
